@@ -3,7 +3,8 @@ import { gsap } from 'gsap';
 /**
  * Class representing an image that has the repetitive hover effect 
  */
-export class ImageHover {
+export class ImageHover 
+{
     // DOM elements
     DOM = {
         // main element (.image)
